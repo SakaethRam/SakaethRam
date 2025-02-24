@@ -24,6 +24,7 @@ I am a highly motivated and detail-oriented technology professional with experti
 - **MetaLib:** A Generative AI project.
 - **XBlog:** A Minimalist Social Media App.
 - **Visper:** A Localization & transcription ML solution.
+- **WatchTower:** An Intel Reconnaissance & Data Sifting ML model.
 
 ## Fun Facts About Me
 - I have a deep passion for **ethical hacking** and love experimenting with penetration testing tools.
