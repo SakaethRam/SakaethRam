@@ -7,11 +7,11 @@ I am a highly motivated and detail-oriented technology professional with experti
 
 
 ## Professional Expertise
-- **AWS Certified Cloud Solutions Architect** – Designing and implementing scalable, secure cloud solutions.
-- **Google Certified Cybersecurity Specialist** – Ensuring robust security measures and compliance across digital infrastructures.
-- **AWS Certified Cloud Practitioner** – Strong foundation in AWS services and cloud best practices.
-- **Meta Social Media Marketing Associate** – Leveraging digital platforms for strategic online engagement.
-- **C-EH** – Applying ethical hacking techniques to assess, secure, and enhance digital environments.
+- **AWS Certified Cloud Solutions Architect:** Designing and implementing scalable, secure cloud solutions.
+- **Google Certified Cybersecurity Specialist:** Ensuring robust security measures and compliance across digital infrastructures.
+- **AWS Certified Cloud Practitioner:** Strong foundation in AWS services and cloud best practices.
+- **Meta Social Media Marketing Associate:** Leveraging digital platforms for strategic online engagement.
+- **C-EH:** Applying ethical hacking techniques to assess, secure, and enhance digital environments.
 
 ## Core Competencies
 - **Cloud Technologies:** AWS, Google Cloud, Serverless Architectures
