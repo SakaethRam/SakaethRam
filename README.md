@@ -35,7 +35,7 @@ I am a highly motivated and detail-oriented technology professional with experti
 - I'm a strong advocate for **open-source contributions** and believe in knowledge-sharing.
 
 ## Connect with Me
-- **LinkedIn:** [Your Profile](www.linkedin.com/in/sakaeth-ram-82614731b)
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/sakaeth-ram-82614731b/)
 - **Portfolio:** [Your Website](https://sakaethram.framer.website)
 
 I am always open to collaboration and knowledge-sharing in the fields of cloud computing, cybersecurity, and AI-driven solutions. Feel free to explore my repositories and connect for professional engagements.
