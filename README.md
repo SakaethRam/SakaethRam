@@ -1,12 +1,9 @@
 # Welcome to My GitHub Profile
 
-Hi, I'm R Sakaeth Ram - A Computer Science Engineer specializing in Cybersecurity, MLOps, and AI-driven system design.
-
-
 ![GitHub CP](https://github.com/user-attachments/assets/e4156d4a-d473-4837-9fd3-156ebb975122)
 
 
-My work blends deep technical expertise in areas like Ethical Hacking, Red Teaming, Cloud Security Architecture, and Machine Learning Engineering, with a sharp focus on building intelligent, scalable, and secure systems for modern digital environments.
+Hi, I'm R Sakaeth Ram - A Computer Science Engineer specializing in Cybersecurity, MLOps, and AI-driven system design. My work blends deep technical expertise in areas like Ethical Hacking, Red Teaming, Cloud Security Architecture, and Machine Learning Engineering, with a sharp focus on building intelligent, scalable, and secure systems for modern digital environments.
 
 Through my academic journey and hands-on engineering roles, I've built and led several full-stack AI and security projects - from multilingual voice assistants and VAPT automation pipelines to grammar-aware NLP engines and behavioral anomaly detectors.
 
