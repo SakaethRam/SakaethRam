@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile
 
-Hi, I'm R Sakaeth Ram — A Computer Science Engineer specializing in Cybersecurity, MLOps, and AI-driven system design.
+Hi, I'm R Sakaeth Ram - A Computer Science Engineer specializing in Cybersecurity, MLOps, and AI-driven system design.
 
 
 ![GitHub CP](https://github.com/user-attachments/assets/e4156d4a-d473-4837-9fd3-156ebb975122)
@@ -8,9 +8,9 @@ Hi, I'm R Sakaeth Ram — A Computer Science Engineer specializing in Cybersecur
 
 My work blends deep technical expertise in areas like Ethical Hacking, Red Teaming, Cloud Security Architecture, and Machine Learning Engineering, with a sharp focus on building intelligent, scalable, and secure systems for modern digital environments.
 
-Through my academic journey and hands-on engineering roles, I've built and led several full-stack AI and security projects — from multilingual voice assistants and VAPT automation pipelines to grammar-aware NLP engines and behavioral anomaly detectors.
+Through my academic journey and hands-on engineering roles, I've built and led several full-stack AI and security projects - from multilingual voice assistants and VAPT automation pipelines to grammar-aware NLP engines and behavioral anomaly detectors.
 
-What I Do Here
+## What I Do Here
 
 <> Build & contribute to open-source projects in AI, security, and automation
 
@@ -20,7 +20,7 @@ What I Do Here
 
 <> Explore secure-by-design development for modern cloud-native applications
 
-Certifications & Skills
+## Certifications & Skills
 
 • Certified: Google Cybersecurity Professional, AWS Cloud Architect, Microsoft Azure AI, Meta Digital Marketing
 
@@ -28,21 +28,19 @@ Certifications & Skills
 
 • Platforms: AWS, Azure, GCP, GitHub Actions, Firebase, Colab, Jupyter, Whisper, Gemini API
 
-Projects You’ll Find Here
+## Projects You’ll Find Here
 
-1. MetaLib GPT – Contextual GPT-style conversations built with Gemini API
+1. MetaLib GPT: Contextual GPT-style conversations built with Gemini API
 
-2. VISPER – Voice interface with transcription and multilingual translation
+2. VISPER: Voice interface with transcription and multilingual translation
 
-3. GramEm – Grammar correction + emotion-aware rewriting using T5 & BERT
+3. GramEm: Grammar correction + emotion-aware rewriting using T5 & BERT
 
-4. WingMan – Real-time voice assistant with translation and AI responses
+4. WingMan: Real-time voice assistant with translation and AI responses
 
-5. GeoWatch Tower – Geolocation-driven anomaly detection for security
+5. GeoWatch Tower: Geolocation-driven anomaly detection for security
 
-6. XBlog – Flutter-based minimalist social platform with secure auth
-
-I believe in building systems that are secure, human-aware, and future-ready. If you're exploring collaborations, AI-first products, or security-engineered architectures — you're welcome to explore my repositories or connect.
+6. XBlog: Flutter-based minimalist social platform with secure auth
 
 ## Fun Facts About Me
 - I have a deep passion for **ethical hacking** and love experimenting with penetration testing tools.
@@ -54,4 +52,4 @@ I believe in building systems that are secure, human-aware, and future-ready. If
 - **LinkedIn:** [Profile](https://www.linkedin.com/in/sakaeth-ram-82614731b/)
 - **Portfolio:** [PortWeb](https://sakaethram.framer.website)
 
-I am always open to collaboration and knowledge-sharing in the fields of cloud computing, cybersecurity, and AI-driven solutions. Feel free to explore my repositories and connect for professional engagements.
+I believe in building systems that are secure, human-aware, and future-ready. If you're exploring collaborations, AI-first products, or security-engineered architectures - you're welcome to explore my repositories or connect.
