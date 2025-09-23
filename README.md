@@ -46,7 +46,7 @@ Through my academic journey and hands-on engineering roles, I've built and led s
 - I'm a strong advocate for **open-source contributions** and believe in knowledge-sharing.
 
 ## Connect with Me
-- **LinkedIn** [↗](https://www.linkedin.com/in/sakaeth-ram-82614731b/)
+- **LinkedIn** [↗](https://www.linkedin.com/in/sakaethram)
 - **Portfolio** [↗](https://sakaethram.framer.website)
 
 I believe in building systems that are secure, human-aware, and future-ready. If you're exploring collaborations, AI-first products, or security-engineered architectures - you're welcome to explore my repositories or connect.
