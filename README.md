@@ -9,8 +9,6 @@ Through my academic journey and hands-on engineering roles, I've built and led s
 
 ## What I Do Here
 
-<> Build & contribute to open-source projects in AI, security, and automation
-
 <> Prototype GPT-style interfaces with context awareness
 
 <> Design and optimize MLOps pipelines with CI/CD and model monitoring
@@ -43,7 +41,6 @@ Through my academic journey and hands-on engineering roles, I've built and led s
 - I have a deep passion for **ethical hacking** and love experimenting with penetration testing tools.
 - I enjoy **reverse engineering** and understanding how things work from the inside out.
 - In my free time, I like to **build custom AI models** just for fun.
-- I'm a strong advocate for **open-source contributions** and believe in knowledge-sharing.
 
 ## Connect with Me
 - **LinkedIn** [↗](https://www.linkedin.com/in/sakaethram)
