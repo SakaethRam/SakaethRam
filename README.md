@@ -98,13 +98,6 @@ Flutter-based social platform demonstrating secure-by-design development princip
 
 ## PROFESSIONAL EXPERIENCE
 
-**GUN|METAL**
-Chief Executive Officer & Board Member | Jan 2026 to Present
-
->Led development of VISPER achieving 90% transcription accuracy and processing 10,000+ words/min. Directed GramEm expansion to 50+ users, reducing drafting time by 95%. Implemented data science initiatives increasing decision-making accuracy by 60% and driving 3x improvement in executive productivity through AI-powered analytics.
-
->Designed scalable Python backends with RESTful APIs, improving integration speed by 20%. Aligned technical architecture with business objectives to boost automation efficiency by 25%.
-
 **Prime Focus Technologies**
 AI Automation Consultant | Jun 2025 to Aug 2025
 
@@ -122,19 +115,19 @@ AI Strategist | May 2024 to May 2025
 ## CERTIFICATIONS & CREDENTIALS
 
 **1. AWS Certified Cloud Solutions Architect**
-Amazon Web Services, 2024
+| Amazon Web Services, 2024
 
 **2. Google Cybersecurity Professional**
-Google, 2024
+| Google, 2024
 
 **3. AWS Certified Cloud Practitioner**
-Amazon Web Services, 2023
+| Amazon Web Services, 2023
 
 **4. Meta Digital Marketing Associate**
-Meta, 2024
+| Meta, 2024
 
 **5. Meta Social Media Marketing Professional**
-Meta, 2024
+| Meta, 2024
 
 ---
 
@@ -150,17 +143,6 @@ Cloud-native architectures designed for growth. Systems are built to handle incr
 
 - **Intelligent Automation**
 Systems that improve over time. AI and ML integration drives autonomous decision-making, pattern recognition, and optimization without constant human intervention.
-
----
-
-## COLLABORATION & OPPORTUNITIES
-
-I'm actively exploring:
-
-- Product Development with agentic AI systems and autonomous agents
-- Security-engineered architectures for enterprise solutions
-- Open-source contributions in MLOps and DevSecOps
-- Research collaborations in autonomous systems and graph-based AI
 
 ---
 
