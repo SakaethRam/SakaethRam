@@ -49,53 +49,6 @@ PyCharm, VS Code, Jupyter, Google Colab, Git, Docker, Terraform
 
 ---
 
-## FEATURED PROJECTS
-
-### 1. Agentic AI Systems
-
-- **Agentic-R3-DE**
-Advanced agentic framework implementing Reasoning, Retrieval, and Decision-making capabilities. Features autonomous web crawling, document analysis, and intelligent routing. Built with Python and optimized for production deployment.
-
-- **Agentic-TinyFish**
-Lightweight autonomous agent system designed for specialized task execution and real-time applications. Implements efficient state management and rapid decision-making patterns for edge deployment scenarios.
-
-- **FloRider-GraphAI**
-Intelligent graph-based system for route optimization and complex relational data analysis. Combines graph database technology with AI reasoning for domain-specific problem-solving in logistics and supply chain optimization.
-
-### 2. UI/UX & Graphic Design
-
-- **SAM: Phoenix**
-Enterprise-grade AI agency platform for automated workflow orchestration. Handles multimedia processing, intelligent document analysis, and multi-stage automation pipelines with 90%+ accuracy metrics.
-
-### 3. Security & Authentication Systems
-
-- **ZOHO-AUTH0**
-Enterprise identity and access management integration with zero-trust architecture. Provides seamless SSO, OAuth2 implementation, and role-based access control across distributed systems.
-
-- **Auth-WatchV.0 (aka GeoWatch Tower)**
-Geolocation-driven anomaly detection framework for security threat analysis. Real-time processing of location data with behavioral pattern recognition for infrastructure protection.
-
-### 4. Voice & NLP Systems
-
-- **WingMan**
-Real-time voice assistant integrating speech recognition, multilingual translation, and AI-powered response generation. Achieves 95%+ accuracy in speech-to-text with sub-second latency for conversational applications.
-
-- **VISPER**
-Comprehensive voice interface system with transcription and multilingual translation capabilities. Supports 50+ languages with neural translation models achieving 98%+ BLEU scores. Processes 10,000+ words per minute.
-
-- **GramEm**
-Advanced grammar correction and emotion-aware rewriting system. Uses T5 and BERT models for context-aware text generation. Chrome and Opera extension with 50+ active users reducing drafting time by 95%.
-
-### 5. Full-Stack Applications
-
-- **MetaLib GPT**
-Contextual GPT-style conversation system with knowledge base integration. Implements retrieval-augmented generation with Gemini API for accurate, context-aware responses across domains.
-
-- **XBlog**
-Flutter-based social platform demonstrating secure-by-design development principles. Features encrypted authentication, privacy-focused data handling, and seamless cross-platform deployment.
-
----
-
 ## PROFESSIONAL EXPERIENCE
 
 **Prime Focus Technologies**
@@ -109,25 +62,6 @@ AI Automation Consultant | Jun 2025 to Aug 2025
 AI Strategist | May 2024 to May 2025
 
 >Designed and implemented AI-driven automation workflows integrating LLMs and machine learning models. Consulted enterprise clients on AI adoption strategy, identifying opportunities for intelligent system deployment across data analysis, content generation, and workflow optimization.
-
----
-
-## CERTIFICATIONS & CREDENTIALS
-
-**1. AWS Certified Cloud Solutions Architect**
-| Amazon Web Services, 2024
-
-**2. Google Cybersecurity Professional**
-| Google, 2024
-
-**3. AWS Certified Cloud Practitioner**
-| Amazon Web Services, 2023
-
-**4. Meta Digital Marketing Associate**
-| Meta, 2024
-
-**5. Meta Social Media Marketing Professional**
-| Meta, 2024
 
 ---
 
